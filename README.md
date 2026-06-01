@@ -89,16 +89,6 @@ Docker, Git, Postman, Prometheus, Grafana, OpenTelemetry
 - **LeetCode:** Knight Badge, max contest rating **1896**, top **4.5%**
 - **CodeChef:** 3-Star programmer, **1900+** DSA rating, best global rank **8**
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codetitan9999&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetitan9999&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 ## Connect
 
 - GitHub: [codetitan9999](https://github.com/codetitan9999)
