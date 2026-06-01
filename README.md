@@ -28,15 +28,16 @@ I'm a backend engineer with production experience at **Oracle**, where I worked 
 
 I enjoy building systems that are not only fast, but also durable, observable, and easy to reason about under failure. A lot of my work and side projects naturally pull me toward backend, platform, distributed systems, and strong full-stack engineering.
 
-## What I’ve worked on
+## What I’ve worked on at Oracle
 
 - Migrated a legacy export flow to a **queue-driven parallel processing model** with worker execution, batching, retries, and failure isolation, reducing runtime for **1M+ record workloads** from about **14 minutes to 2-5 minutes**.
 - Delivered a **self-serve integration mapping workflow** that reduced support-dependent setup turnaround from **1-2 weeks to under 1 hour**.
 - Designed and built backend APIs for **payload generation, transformation, routing, and bidirectional mappings** to simplify complex integration setup flows.
 - Strengthened **inbound-shipment sync reliability** through better validation, consistency checks, and failure handling across production workflows.
-- Built visibility into workflow execution with a **React/TypeScript operations dashboard** for retries, dead-lettered tasks, and replay flows.
 
 ## Featured projects
+
+These are the personal projects I’m most proud of and the ones that best reflect how I like to think about systems, product depth, and engineering quality.
 
 ### DurableFlow
 **Go, PostgreSQL, Redis Streams, React, TypeScript, Docker**
