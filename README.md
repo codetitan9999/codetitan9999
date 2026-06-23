@@ -87,7 +87,6 @@ Docker, Git, Postman, Prometheus, Grafana, OpenTelemetry
 ## Problem solving
 
 - **LeetCode:** Knight Badge, max contest rating **1896**, top **4.5%**
-- **CodeChef:** 3-Star programmer, **1900+** DSA rating, best global rank **8**
 
 ## Connect
 
