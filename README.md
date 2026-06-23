@@ -92,7 +92,6 @@ Docker, Git, Postman, Prometheus, Grafana, OpenTelemetry
 
 - GitHub: [codetitan9999](https://github.com/codetitan9999)
 - LeetCode: [sreesumanth2002](https://leetcode.com/u/sreesumanth2002/)
-- CodeChef: [sumanth9999](https://www.codechef.com/users/sumanth9999)
 
 ## Current focus
 
