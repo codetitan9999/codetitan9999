@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Engineering-0A66C2?style=flat-square" alt="Backend" />
   <img src="https://img.shields.io/badge/Distributed-Systems-1F6FEB?style=flat-square" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Workflow-Orchestration-2DA44E?style=flat-square" alt="Workflow Orchestration" />
   <img src="https://img.shields.io/badge/Reliability-Focused-CB2431?style=flat-square" alt="Reliability" />
 </p>
 
