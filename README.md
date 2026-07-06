@@ -88,12 +88,13 @@ Docker, Git, Postman, Prometheus, Grafana, OpenTelemetry
 
 ## Problem solving
 
-- **LeetCode:** Knight Badge, max contest rating **1896**, top **4.5%**
+- **LeetCode:** Knight Badge, max contest rating **2000+**, top **2%**
 
 ## Connect
 
 - GitHub: [codetitan9999](https://github.com/codetitan9999)
 - LeetCode: [sreesumanth2002](https://leetcode.com/u/sreesumanth2002/)
+- LinkedIn:  [Sree Sumanth Duddukuri](https://www.linkedin.com/in/sree-sumanth-duddukuri/) 
 
 ## Current focus
 
