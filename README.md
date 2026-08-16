@@ -69,7 +69,7 @@ AI-powered web application for resume analysis and job-description-based feedbac
 ## Tech stack
 
 **Languages**  
-C++, Python, Go, JavaScript, TypeScript, SQL
+C++, Java, Python, Go, JavaScript, TypeScript, SQL
 
 **Backend**  
 Node.js, Flask, REST APIs, PostgreSQL, MySQL, Redis
@@ -86,12 +86,14 @@ Docker, Git, Postman, Prometheus, Grafana, OpenTelemetry
 ## Problem solving
 
 - **LeetCode:** Knight Badge, max contest rating **2000+**, top **2%**
+- **CodeChef:** 3 stars in CP | 2000+ DSA Rating
 
 ## Connect
 
 - GitHub: [codetitan9999](https://github.com/codetitan9999)
 - LeetCode: [sreesumanth2002](https://leetcode.com/u/sreesumanth2002/)
-- LinkedIn:  [Sree Sumanth Duddukuri](https://www.linkedin.com/in/sree-sumanth-duddukuri/) 
+- LinkedIn:  [Sree Sumanth Duddukuri](https://www.linkedin.com/in/sree-sumanth-duddukuri/)
+- CodeChef: [sumanth9999](https://www.codechef.com/users/sumanth9999/)
 
 ## Current focus
 
