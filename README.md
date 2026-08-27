@@ -7,12 +7,14 @@
   <a href="https://github.com/codetitan9999">
     <img src="https://img.shields.io/badge/GitHub-codetitan9999-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+
   <a href="https://leetcode.com/u/sreesumanth2002/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-<a href="https://www.codechef.com/users/sumanth9999">
-  <img src="https://img.shields.io/badge/CodeChef-4_Star-7B2CBF?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 4 Star" />
-</a>
+
+  <a href="https://www.codechef.com/users/sumanth9999">
+    <img src="https://img.shields.io/badge/CodeChef-4%20Star-7B2CBF?style=for-the-badge&logo=codechef&logoColor=white&v=4" alt="CodeChef 4 Star" />
+  </a>
 </p>
 
 <p align="center">
