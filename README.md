@@ -15,6 +15,9 @@
   <a href="https://www.codechef.com/users/sumanth9999">
     <img src="https://img.shields.io/badge/CodeChef-4%20Star-7B2CBF?style=for-the-badge&logo=codechef&logoColor=white&v=4" alt="CodeChef 4 Star" />
   </a>
+  <a href="https://codeforces.com/profile/sumanth2002">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
+</a>
 </p>
 
 <p align="center">
