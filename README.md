@@ -10,9 +10,9 @@
   <a href="https://leetcode.com/u/sreesumanth2002/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/sumanth9999">
-    <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
+<a href="https://www.codechef.com/users/sumanth9999">
+  <img src="https://img.shields.io/badge/CodeChef-4_Star-7B2CBF?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 4 Star" />
+</a>
 </p>
 
 <p align="center">
