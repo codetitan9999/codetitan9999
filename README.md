@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/sumanth9999">
-    <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-4_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Docker, Git, Postman, Prometheus, Grafana, OpenTelemetry
 ## Problem solving
 
 - **LeetCode:** Knight Badge, max contest rating **2000+**, top **2%**
-- **CodeChef:** 3 stars in CP | 2000+ DSA Rating
+- **CodeChef:** 4 stars in CP | 2000+ DSA Rating
 
 ## Connect
 
